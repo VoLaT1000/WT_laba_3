@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><clients>
+    <Client>
+        <name>Mikhail</name>
+        <password>11131</password>
+        <allowance>ADD</allowance>
+    </Client>
+    <Client>
+        <name>Nik</name>
+        <password>1313</password>
+        <allowance>EDIT</allowance>
+    </Client>
+    <Client>
+        <name>Eugene</name>
+        <password>an131s</password>
+        <allowance>EDIT</allowance>
+    </Client>
+</clients>
